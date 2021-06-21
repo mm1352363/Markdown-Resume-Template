@@ -10,15 +10,15 @@
 
 ## 工作及教育经历
 
-* 美团&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+* 美团&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.5~至今&emsp;&emsp;&emsp;&emsp;&emsp; 信息安全部-平台治理中心       
+* 同济大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2020.5&emsp;&emsp;&emsp;&emsp; 计算机技术专业-研究生         
+* 同济大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
 
 ## 专业技能
 
-* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
-* 掌握基础数据结构和算法的基本原理
-* 等等
+* 熟练使用Python、HiveSql，了解 Java、Scala 等编程语言
+* 掌握Spark分布式框架，具备大数据开发经验
+* 熟悉Xgboost、逻辑回归、神经网络等分类模型
 
 ## 项目经历
 
