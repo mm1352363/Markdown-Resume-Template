@@ -8,11 +8,14 @@
 * 手 机：185-5500-1270 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：81299003@qq.com   
 * 专 业：计算机科学与技术 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：算法工程师
 
-## 工作及教育经历
+## 教育背景
 
-* 美团&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.5~至今&emsp;&emsp;&emsp;&emsp;&emsp; 信息安全部-平台治理中心       
 * 同济大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2020.5&emsp;&emsp;&emsp;&emsp; 计算机技术专业-研究生         
 * 同济大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+
+## 工作经历
+
+* 美团&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.5~至今&emsp;&emsp;&emsp;&emsp;&emsp; 信息安全部-平台治理中心
 
 ## 专业技能
 
