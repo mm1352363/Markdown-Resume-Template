@@ -15,7 +15,7 @@
 
 ## 工作经历
 
-* 美团&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.5~至今&emsp;&emsp;&emsp;&emsp;&emsp; 信息安全部-平台治理中心
+美团&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.5~至今&emsp;&emsp;&emsp;&emsp;&emsp; 信息安全部-平台治理中心
 
 ## 项目经历
 
