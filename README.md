@@ -5,7 +5,7 @@
 ## 个人信息 
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：26  
-* 手 机：185-5500-1270 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;邮 箱：81299003@qq.com   
+* 手 机：185-5500-1270 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 邮 箱：81299003@qq.com   
 * 专 业：计算机科学与技术 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：算法工程师
 
 ## 教育背景
